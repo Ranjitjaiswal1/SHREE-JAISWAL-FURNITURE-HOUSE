@@ -18,7 +18,7 @@ function Footer() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 Shree Jaiswal Furniture House. All rights reserved.</p>
+          <p>&copy; 2026 Shree Jaiswal Furniture House. All rights reserved.</p>
         </div>
       </div>
     </footer>
@@ -26,3 +26,4 @@ function Footer() {
 }
 
 export default Footer
+
