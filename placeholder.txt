@@ -1,0 +1,7 @@
+Place your furniture images here:
+- beds.jpg, bed1.jpg, bed2.jpg, bed3.jpg
+- sofa.jpg, sofa1.jpg, sofa2.jpg, sofa3.jpg
+- dining.jpg, dining1.jpg, dining2.jpg, dining3.jpg
+- wardrobe.jpg, wardrobe1.jpg, wardrobe2.jpg, wardrobe3.jpg
+- office1.jpg, office2.jpg, office3.jpg
+- gallery1.jpg through gallery9.jpg
